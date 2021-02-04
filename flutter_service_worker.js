@@ -6,13 +6,13 @@ const RESOURCES = {
   "assets/AssetManifest.json": "99914b932bd37a50b983c5e7c90ae93b",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "01f17374b3e961b31a0add886c6caaaa",
+"assets/NOTICES": "e075e4c8a43e564db0116a6a46a3ac32",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "a4752ca6ec6d9a32a90794c45d969554",
-"/": "a4752ca6ec6d9a32a90794c45d969554",
-"main.dart.js": "34bb2ec4080b13b6f9fe1962b9f69dc8",
+"index.html": "79dcdcfb80d9e8e6711afdac62b3be6f",
+"/": "79dcdcfb80d9e8e6711afdac62b3be6f",
+"main.dart.js": "463b80268c8caa4e4ce46136642bf541",
 "manifest.json": "6934acbdde1a016932d8afc2ca10d66c",
 "version.json": "bbea27e655093ce66f50ab060000f2e9"
 };
